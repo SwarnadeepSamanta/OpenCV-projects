@@ -18,5 +18,5 @@ Here in this project we will use the concepts of Trigonometry and Computer Visio
 
 Requirements: python3 , numpy , opencv installed on your system.
 
-
+To RUN the application just run the analog_clock.py file
 
